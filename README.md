@@ -9,6 +9,7 @@ FOODVAL is a digital platform that connects waste generators with the biogas ind
 - [Installation](#installation)
 - [Usage](#usage)
 - [Prerequisites](#Prerequisites)
+- [Usage](#Usage)
 
 
 ## Project Overview

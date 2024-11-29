@@ -1,0 +1,43 @@
+/* src/components/ui/IndustryCard.css */
+.industry-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .industry-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .industry-card h2 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .industry-card p {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  /* src/components/ui/PaginationSelector.css */
+  .pagination-selector {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .pagination-selector button {
+    padding: 10px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .pagination-selector button:disabled {
+    background-color: #e0e0e0;
+    cursor: not-allowed;
+  }
+  

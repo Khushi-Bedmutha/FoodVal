@@ -1,4 +1,5 @@
 FoodVal: Connecting Food Industries with Biogas Plants
+
 🌱 About FoodVal
 FoodVal is an innovative platform designed to connect food industries generating organic waste with biogas plants and composting units. It aims to promote efficient waste management, effective recycling, and the transformation of food waste into valuable organic products like biogas and compost.
 

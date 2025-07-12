@@ -20,6 +20,5 @@ Database: MongoDB Atlas
 Authentication: Auth0
 Payment Gateway: Stripe
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 

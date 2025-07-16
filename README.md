@@ -14,7 +14,7 @@ Interactive UI: Responsive design ensures a seamless experience across devices.
 
 🛠️ Technologies Used
 
-Frontend: React, TypeScript, ShadCN
+Frontend: React, TypeScript
 Backend: Node.js, Express.js
 Database: MongoDB Atlas
 Authentication: Auth0
